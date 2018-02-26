@@ -2,7 +2,7 @@ app_name: starhackit
 title: StarHackIt
 description: StarHackIt is a fullstack boilerplate written in es6/es7
 
-git_repo: https://github.com/FredericHeem/starhackit.git
+git_repo: https://github.com/teopeurt/starhackit-dev
 git_version: master
 
 api_dir: '{{home}}/{{app_name}}'
